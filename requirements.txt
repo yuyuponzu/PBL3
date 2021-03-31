@@ -104,7 +104,7 @@ librosa==0.6.1
 lightgbm==2.1.2
 llvmlite==0.23.2
 locket==0.2.0
-lxml==4.1.1
+lxml==4.6.3
 magenta==0.3.8
 Markdown==2.6.11
 MarkupSafe==1.0
